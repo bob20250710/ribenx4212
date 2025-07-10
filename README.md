@@ -16,4 +16,4 @@
 
 为了进一步提高视频加载速度和播放稳定性，成人平台还采取了内容分发网络（CDN）技术，使得用户在世界各地都能享受到高速、无延迟的视频播放体验。
 
-<span style="display:none;">[Canonical link]( ）</span>
+<span style="display:none;">[Canonical link]( https://github.com/bob20250710/ribenx4212 ）</span>
